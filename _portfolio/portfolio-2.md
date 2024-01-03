@@ -7,7 +7,7 @@ This logic processor is capable of performing 8 different 4-bit bitwise operatio
 <img src='images/proj2_2.png'> 
 
 
-### Key Takeaways: 
+## Key Takeaways: 
 - Using provided truth table and function description to convert to logic expressions and finite state machine
 - Exploring ways to simplify logic expression to minimize chip usage
 - Unit testing each component before implementation
