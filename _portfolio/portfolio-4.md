@@ -2,11 +2,10 @@ title: "LC-3 Calculator"
 excerpt: "LC-3 Assembly Implementation of Five-Function Calculator"
 collection: portfolio
 ---
-<img src='/images/proj2_1.jpg'>
+<img src='/images/proj4_1.png'>
 This calculator was coded using the LC3 assembly language, which is similar to RISC. It can perform addition, subtraction, multiplication, division, and exponent calculations.
 The input syntax is in Reverse Polish Notation (a.k.a. postfix notation), and the output format is in hexcode. 
 Calculation order can be configured using parentheses, and it can detect syntax errors such as division by zero. 
-<img src='images/proj2_2.png'> 
 
 
 ## Key Takeaways: 
