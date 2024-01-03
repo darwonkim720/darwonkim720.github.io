@@ -1,3 +1,4 @@
+---
 title: "LC-3 Calculator"
 excerpt: "LC-3 Assembly Implementation of Five-Function Calculator"
 collection: portfolio
