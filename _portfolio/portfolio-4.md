@@ -7,6 +7,7 @@ This calculator was coded using the LC3 assembly language, which is similar to R
 The input syntax is in Reverse Polish Notation (a.k.a. postfix notation), and the output format is in hexcode. 
 Calculation order can be configured using parentheses, and it can detect syntax errors such as division by zero. 
 
+Link to Project: https://github.com/darwonkim720/LC-3_Calculator
 
 ## Key Takeaways: 
 - Using flowcharts to outline code before implementation
