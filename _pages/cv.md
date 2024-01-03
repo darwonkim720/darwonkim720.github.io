@@ -8,15 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+[CV](https://github.com/darwonkim720/darwonkim720.github.io/blob/master/files/Darwon_Kim_CV.docx)
 
-Work experience
+### Work experience
 ======
 * Summer 2022
   * Quality Assurance Intern at DEEPSOUND
   * Duties included: Assisting in calibrating and testing prototype PAUT devices, creating device operation tutorial videos, translating over 15 user manual documents and testing/validation data of PAUT devices from Korean to English
   * Supervisor: Seung Cheol Lee
 
-Skills
+### Skills
 ======
 * Amplifier Circuit Analysis 
 * Python
@@ -25,7 +26,7 @@ Skills
 * System Verilog 
 * ROS Noetic (Beginner)
 
-Service and leadership
+### Service and leadership
 ======
 * Administrative Manager of the Korean Church of Champaign-Urbana 
 * STEM Club Leader in high school
