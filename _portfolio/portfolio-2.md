@@ -1,7 +1,9 @@
+---
 title: "Bit-Serial Logic Processor"
-excerpt: "Hardware Implementation of Logic Processor"
+excerpt: "Hardware implementation of Logic Processor"
 collection: portfolio
 ---
+
 <img src='/images/proj2_1.jpg'>
 This logic processor is capable of performing 8 different 4-bit bitwise operations. It uses two 4-bit registers as storage for both inputs and outputs. This processor was implemented purely with hardware components only. By default it runs with a 1kHz clock, which can be slowed down to 1Hz to see the operation process happen bit-by-bit in real time on the LED strip. All functions are shown in the truth table below. 
 <img src='images/proj2_2.png'> 
