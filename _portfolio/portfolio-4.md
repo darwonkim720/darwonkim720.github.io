@@ -13,7 +13,7 @@ The image above shows a sample calculation. The left-hand window is the terminal
 93-24-/ is the postfix notation for 6 / -2. The result, -3, is FFFD in hex. 
 
 
-Link to Project: https://github.com/darwonkim720/LC-3_Calculator
+[Link to Project](https://github.com/darwonkim720/LC-3_Calculator)
 
 ## Key Takeaways: 
 - Using flowcharts to outline code before implementation
