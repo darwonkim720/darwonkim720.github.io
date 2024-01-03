@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ultrasonic Parking Sensor"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/proj1_1.png.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My partner and I designed this parking sensor using a simple non-inverting amplifier circuit and an ultrasonic sensor. 
+There are two LEDs (red and blue) that indicates how close an object is to the sensor. Anything beyond 20cm won't light up the LEDs. The blue LED turns on when an object is detected about 10cm away from the sensor, and both the blue and red LEDs turn on when an object is within 5cm. 
+
+
