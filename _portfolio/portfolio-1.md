@@ -1,6 +1,6 @@
 ---
 title: "Ultrasonic Parking Sensor"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/proj1_1.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/proj2_1.jpg'>"
 collection: portfolio
 ---
 
