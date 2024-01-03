@@ -1,5 +1,5 @@
 title: "Bit-Serial Logic Processor"
-excerpt: "Short description of portfolio item number 1"
+excerpt: "Hardware Implementation of Logic Processor"
 collection: portfolio
 ---
 <img src='/images/proj2_1.jpg'>
