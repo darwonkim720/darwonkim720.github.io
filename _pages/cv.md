@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV](https://github.com/darwonkim720/darwonkim720.github.io/blob/master/files/Darwon_Kim_CV.docx)
+[Link to my CV](https://github.com/darwonkim720/darwonkim720.github.io/blob/master/files/Darwon_Kim_CV.docx)
 
 ### Work experience
 ======
