@@ -1,5 +1,5 @@
----
-title: "4DOF Manipulator" [Current]"
+--- 
+title: "4DOF Manipulator [Current]"
 excerpt: "4DOF manipulator using servos, Arduino, and ROS"
 collection: portfolio
 ---
