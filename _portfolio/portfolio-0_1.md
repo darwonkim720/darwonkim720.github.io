@@ -15,4 +15,12 @@ Some problems I have encountered so far are:
 
 Possible solutions are: 
 - Replace the motors with stepper motors.
-- Publsih Twist messages through keyboard teleop using ROS. 
+- Publsih Twist messages through keyboard teleop using ROS.
+
+<br>
+<br>
+
+![manipulator_1](https://github.com/darwonkim720/darwonkim720.github.io/assets/150773404/4432f7e9-a0b8-4ddc-a650-f42ba2f5cdab)
+
+
+![manipulator_2](https://github.com/darwonkim720/darwonkim720.github.io/assets/150773404/c33f9398-3839-48d8-a5d6-28db8fd33b86)
