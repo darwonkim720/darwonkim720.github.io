@@ -12,3 +12,10 @@ The next couple of milestones I am trying to reach within a week are:
 - Getting the Arduino to communicate with ROS topics using Python3
 - Smoothing out servo motor movement
 
+<br>
+<br>
+
+![light_sensor_1](https://github.com/darwonkim720/darwonkim720.github.io/assets/150773404/723373da-4f77-4ae2-9041-84e9fa2ae166)
+
+
+![light_sensor_2](https://github.com/darwonkim720/darwonkim720.github.io/assets/150773404/580243ba-c685-4f56-8ace-7c49395d9c4c)
